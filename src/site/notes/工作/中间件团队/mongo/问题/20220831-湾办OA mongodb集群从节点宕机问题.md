@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"///mongo//20220831-oa-mongodb/","dgHomeLink":true,"dgPassFrontmatter":false}
+{"dg-publish":true,"dg-permalink":"工作/中间件团队/mongo/问题/20220831-湾办OA mongodb集群从节点宕机问题.md","permalink":"/工作/中间件团队/mongo/问题/20220831-湾办OA mongodb集群从节点宕机问题.md/","dgHomeLink":true,"dgPassFrontmatter":false}
 ---
 
 
